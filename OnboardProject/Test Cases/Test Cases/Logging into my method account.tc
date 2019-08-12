@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>signing into my d.ma@method.me method account</description>
+   <name>Logging into my method account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5fe25c5-4050-4aa0-9d7c-d4a441f0f9c5</testCaseGuid>
+</TestCaseEntity>
