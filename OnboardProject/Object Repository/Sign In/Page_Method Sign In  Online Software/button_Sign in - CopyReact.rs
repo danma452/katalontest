@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign in - Copy</name>
+   <name>button_Sign in - CopyReact</name>
    <tag></tag>
    <elementGuidId>7c1fb976-422c-4dcf-a349-d7fe5b7b44ef</elementGuidId>
    <selectorCollection>
