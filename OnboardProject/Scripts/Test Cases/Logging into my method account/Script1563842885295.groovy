@@ -13,7 +13,9 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('Test Page/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.delay(0)
+WebUI.navigateToUrl('signin.method.me')
+
+WebUI.sendKeys(findTestObject('Sign In/Page_Method Sign In  Online Software/input_Email Address_Email'), 'd.ma@method.me')
 
